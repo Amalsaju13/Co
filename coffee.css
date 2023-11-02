@@ -1,0 +1,304 @@
+body{
+    margin: 0%;
+}
+
+#M{
+    color: white;
+    font-size: xx-large;
+    position: absolute;
+    left: 12%;
+    top: 10%;
+    font-family:url('https://fonts.googleapis.com/css2?family=Comforter&family=IBM+Plex+Sans+Thai+Looped:wght@200&family=Supermercado+One&family=Yellowtail&display=swap');
+    font-weight:900;
+    
+    
+}
+
+#home{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    height: 70%;
+    width: 100%;
+}
+#cup{
+    position: absolute;
+    left: 5%;
+    top:8%;
+    height: 13%;
+    width: 5%;
+}
+#cup:hover{
+    transform:scale(1.1);
+    box-shadow: 0 5px 150px rgba(0,0,0,.25);
+}
+
+#h1{
+    position: absolute;
+    color: white;
+    left: 60%;
+    top: 3%;
+    font-size: x-large;
+}
+#h2{
+    position: absolute;
+    color: white;
+    left: 66%;
+    top: 4%;
+    font-size: large;
+}
+#h3{
+    position: absolute;
+    color: white;
+    left: 74%;
+    top: 4%;
+    font-size: large;
+}
+#h4{
+    position: absolute;
+    color: white;
+    left: 80%;
+    top: 4%;
+    font-size: large;
+}
+#h5{
+    position: absolute;
+    color: white;
+    left: 87%;
+    top: 4%;
+    font-size: large;
+}
+#div{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 70%;
+    background-color:#d1d9e6;
+}
+h1{
+    color: chocolate;
+    position: absolute;
+    left: 43%;
+    top: 0%;
+    font-family: 'Comforter', cursive;
+
+    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+
+    font-family: 'Supermercado One', cursive;
+}
+#a{
+    height: 250px;
+    width: 450px;
+    position: absolute;
+    left: 10%;
+    top: 12%;
+    background-color: #d1d9e6;
+    border-radius: 12px;
+}
+#a:hover{
+    transform:scale(1.1);
+    box-shadow: 0 5px 150px rgba(0,0,0,.25);
+}
+#b{
+    height: 250px;
+    width: 450px;
+    position: absolute;
+    left: 10%;
+    top: 55%;
+    background-color: #d1d9e6;
+    border-radius: 12px;
+}
+#b:hover{
+    transform:scale(1.1);
+    box-shadow: 0 5px 150px rgba(0,0,0,.25);
+}
+
+#c{
+    height: 250px;
+    width: 450px;
+    position: absolute;
+    right: 10%;
+    top: 12%;
+    background-color: #d1d9e6;
+    border-radius: 12px;
+}
+#c:hover{
+    transform:scale(1.1);
+    box-shadow: 0 5px 150px rgba(0,0,0,.25);
+}
+#d{
+    height: 250px;
+    width: 450px;
+    position: absolute;
+    right: 10%;
+    top: 55%;
+    background-color: #d1d9e6;
+    border-radius: 12px;
+}
+#d:hover{
+    transform:scale(1.1);
+    box-shadow: 0 5px 150px rgba(0,0,0,.25);
+}
+#spec{
+    width: 450px;
+    height: 250px;
+    border-radius: 12px;
+    
+}
+#div2{
+    height: 80%;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 170%;
+    background-color:#80471C;
+}
+#a1{
+    height: 150px;
+    width: 300px;
+    position: absolute;
+    left: 15%;
+    top: 18%;
+    background-color: white;
+    border: gold 2px solid;
+}
+#a1:hover{
+    transform:scale(1.1);
+    box-shadow: 0 5px 150px rgba(0,0,0,.25);
+}
+
+#a2{
+    height: 150px;
+    width: 300px;
+    position: absolute;
+    left: 40%;
+    top: 18%;
+    background-color: white;
+    border: gold 2px solid;
+}
+#a2:hover{
+    transform:scale(1.1);
+    box-shadow: 0 5px 150px rgba(0,0,0,.25);
+}
+
+#a3{
+    height: 150px;
+    width: 300px;
+    position: absolute;
+    left: 65%;
+    top: 18%;
+    background-color: white;
+    border: gold 2px solid;
+}
+#a3:hover{
+    transform:scale(1.1);
+    box-shadow: 0 5px 150px rgba(0,0,0,.25);
+}
+
+#a4{
+    height: 150px;
+    width: 300px;
+    position: absolute;
+    left: 27%;
+    top: 55%;
+    background-color: white;
+    border: gold 2px solid;
+}
+#a4:hover{
+    transform:scale(1.1);
+    box-shadow: 0 5px 150px rgba(0,0,0,.25);
+}
+
+#a5{
+    height: 150px;
+    width: 300px;
+    position: absolute;
+    left: 52%;
+    top: 55%;
+    background-color: white;
+    border: gold 2px solid;
+}
+#a5:hover{
+    transform:scale(1.1);
+    box-shadow: 0 5px 150px rgba(0,0,0,.25);
+}
+
+#g1{
+    height: 150px;
+    width: 300px;
+}
+#div3{
+    height: 65%;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 250%;
+    background-color:white;
+}
+#ab{
+    height:100%;
+    width: 100%;
+}
+#div4{
+    height: 65%;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 315%;
+    background-color:#d1d9e6;
+}
+#d4a{
+    height: 69%;
+    width: 35%;
+    position: absolute;
+    left: 5%;
+    top: 20%;
+    background-color: black;
+}
+#d4b{
+    height: 75%;
+    width: 35%;
+    position: absolute;
+    left: 60%;
+    top: 15%;
+    background-color:white;
+}
+#c1{
+    height: 100%;
+    width: 100%;
+}
+#T{
+    border-radius: 5px;
+}
+/* button{
+    border: 5px;
+    size: 30px;
+} */
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+#div5{
+    height: 40%;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 380%;
+    background-color:#246ce0;
+}
+#Footer{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+}
